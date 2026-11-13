@@ -1,0 +1,6 @@
+{
+  "name": "家族旅行プランナー",
+  "description": "家族旅行の計画、持ち物、予算、温泉計画、カウントダウンを管理するアプリです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
